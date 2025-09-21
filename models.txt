@@ -1,0 +1,6 @@
+# Ollama Models to Test
+gemma3:270M
+qwen3:0.6b
+llama3.2:1b
+Granite3.3:2b
+phi4-mini:3.8b
